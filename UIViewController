@@ -1,8 +1,4 @@
-//PRACTICE TAKEN FROM ONLINE COURSE. 
 
-//WHAT I HAVE IMPLEMENTED:
-  //SHUFFLE: MADE GAME AN ACTUAL GAME
-  
   import UIKit
 
 class ViewController: UIViewController {
